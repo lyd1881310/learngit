@@ -7,7 +7,7 @@
 char x[N], y[N];
 int c[N][N], b[N][N];
 //数组b: 1表示相等；2表示向上； 3表示向左 
-//add new content. 
+//add new content. sell
 void PrintLCS(i, j){
 	if(i==0 || j==0){
 		
