@@ -23,6 +23,7 @@ void PrintLCS(i, j){
 	else{
 		PrintLCS(i, j-1);
 	}
+	//print the longest common sequence
 }
 
 int main(){
